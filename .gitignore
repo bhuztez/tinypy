@@ -1,0 +1,5 @@
+*~
+*.tpc
+*.pyc
+*.o
+tinypy
